@@ -1,0 +1,29 @@
+.search{
+    color:aqua;
+    border-radius:50px;
+    text-align: center;
+    width: 150px; padding:5px;
+    font-size: large; background-color:lightgrey;
+    border:solid aqua;
+}
+.add{
+    font-size:x-large;
+    color:white;
+    padding: 5px;
+    width: 25px; height: 25px;
+    background-color: green;
+    text-align: center;
+    border-radius:50px;
+    margin: 50px;
+
+}
+.Create{
+    color:white;
+    background-color: blue;
+    width:160px; padding: 10px;
+    text-align: center;
+    font-family:Arial;
+    border:solid black;
+    box-shadow: 4px 2px black ;
+
+}
